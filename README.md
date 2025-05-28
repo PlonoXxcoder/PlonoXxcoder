@@ -169,8 +169,6 @@
 
 <h3 align="center">📈 Mes Stats GitHub :</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=plonoxxcoder&show_icons=true&locale=fr&theme=radical&hide_border=true" alt="Statistiques GitHub de PlonoXxcoder" /></p>
-<br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=plonoxxcoder&theme=radical&hide_border=true" alt="Série de contributions GitHub de PlonoXxcoder" /></p>
 
 ---
 
