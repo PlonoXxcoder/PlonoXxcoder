@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est PlonoXxcoder !</h1>
+<h1 align="center">Salut <img src="Images/tu-peux-faire-ca-toi-milhouse.mp4" alt="Milhouse GIF" width="50" />, moi c'est PlonoXxcoder !</h1>
 <h3 align="center">Développeur frontend passionné 🇫🇷, explorateur de l'IA et créateur d'interfaces intuitives. Je transforme le café en code, des idées en expériences web interactives et intelligentes, et je relève les défis du Cloud Computing !</h3>
 
 <p align="center">
@@ -47,8 +47,8 @@
   <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
   <a href="https://www.adobe.com/fr/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="Premiere Pro" width="40" height="40"/></a>
   <a href="https://www.adobe.com/fr/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/fr/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/indesign/indesign-plain.svg" alt="InDesign" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/fr/products/lightroom.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_Lightroom_CC_logo.svg/496px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/fr/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/120px-Adobe_InDesign_CC_icon.svg.png?20210519032020" alt="InDesign" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/fr/products/lightroom.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Lightroom" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> </a>
 </p>
@@ -57,6 +57,7 @@
   <strong>🧠 Intelligence Artificielle & Data Science :</strong><br/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python (pour l'IA)" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib (pour l'IA)" width="40" height="40"/></a>
 </p>
 
 <p align="left">
@@ -105,12 +106,68 @@
 
 <h3 align="center">📜 Mes Certifications & Badges :</h3>
 <div align="center">
-
-  <img src="./images/ccna_introduction_to_networks.png" alt="CCNA: Introduction to Networks" title="CCNA: Introduction to Networks - Cisco Networking Academy" width="100"/>  
-  <img src="./images/introduction_to_cybersecurity.png" alt="Introduction to Cybersecurity" title="Introduction to Cybersecurity - Cisco Networking Academy" width="100"/>  
-  <img src="./images/networking_academy_learn_a_thon_2023.png" alt="Networking Academy Learn-A-Thon 2023" title="Networking Academy Learn-A-Thon 2023 - Cisco" width="100"/>  
-  <!-- Note: CCNA: Introduction to Networks est listé deux fois. J'en ai mis un. Si c'est une autre image ou version, ajoutez-la. -->
-  <img src="./images/aws_academy_graduate_intro_to_cloud_s1.png" alt="AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1" title="AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1" width="100"/>
+<table>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_CREDLY_AZURE_FUNDAMENTALS" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/be80ac62-de19-44ad-bea1-b80692689f81/azure-fundamentals-600x600.png" alt="Badge Microsoft Certified: Azure Fundamentals" width="100"/>
+      </a>
+      <br/>
+      <small>Azure Fundamentals</small>
+    </td>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_CREDLY_POWER_PLATFORM" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/73d0df50-0301-4f88-9891-70e026798011/PL-900-600x600.png" alt="Badge Microsoft Certified: Power Platform Fundamentals" width="100"/>
+      </a>
+      <br/>
+      <small>Power Platform Fundamentals</small>
+    </td>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_CREDLY_AZURE_DATA" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/0095603b-1b3c-4e38-a78f-9936543492cb/azure-data-fundamentals-600x600.png" alt="Badge Microsoft Certified: Azure Data Fundamentals" width="100"/>
+      </a>
+      <br/>
+      <small>Azure Data Fundamentals</small>
+    </td>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_CREDLY_AZURE_AI" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/2f706b80-5314-4e63-a331-a06cc873c706/azure-ai-fundamentals-600x600.png" alt="Badge Microsoft Certified: Azure AI Fundamentals" width="100"/>
+      </a>
+      <br/>
+      <small>Azure AI Fundamentals</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_BADGE_AWS_ACADEMY" target="_blank">
+        <img src="Images/AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1.png" alt="Badge AWS Academy Graduate - Intro to Cloud S1" width="100"/>
+      </a>
+      <br/>
+      <small>AWS Academy Graduate<br/>(Intro to Cloud S1)</small>
+    </td>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_BADGE_CCNA_INTRO" target="_blank">
+        <img src="Images/CCNA Introduction to Networks.png" alt="Badge CCNA Introduction to Networks" width="100"/>
+      </a>
+      <br/>
+      <small>CCNA Intro to Networks</small>
+    </td>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_BADGE_CYBERSECURITY" target="_blank">
+        <img src="Images/Introduction to Cybersecurity.png" alt="Badge Introduction to Cybersecurity" width="100"/>
+      </a>
+      <br/>
+      <small>Intro to Cybersecurity</small>
+    </td>
+    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
+      <a href="REMPLACER_PAR_LIEN_BADGE_LEARNATHON" target="_blank">
+        <img src="Images/Networking Academy Learn-A-Thon 2023.png" alt="Badge Networking Academy Learn-A-Thon 2023" width="100"/>
+      </a>
+      <br/>
+      <small>NetAcad Learn-A-Thon 2023</small>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
