@@ -1,5 +1,30 @@
-<h1 align="center">Salut <img src="Images/tu-peux-faire-ca-toi-milhouse.mp4" alt="Milhouse GIF" width="50" />, moi c'est PlonoXxcoder !</h1>
-<h3 align="center">Développeur frontend passionné 🇫🇷, explorateur de l'IA et créateur d'interfaces intuitives. Je transforme le café en code, des idées en expériences web interactives et intelligentes, et je relève les défis du Cloud Computing !</h3>
+<h1 align="center">
+  Salut, moi c'est <strong>PlonoXxcoder</strong> !
+  <img src="Images/tu-peux-faire-ca-toi-milhouse.gif" alt="Milhouse GIF" width="50" />
+</h1>
+<p align="left" style="font-size: 1.2em;">
+  👨‍💻 Développeur français passionné par le <strong>frontend</strong>, l'<strong>IA</strong> et le <strong>Cloud Computing</strong>.
+  <br />
+  🎨 J’aime concevoir des interfaces élégantes, intuitives et intelligentes.
+</p>
+<p align="left" style="font-size: 1.1em;">
+  🚀 De la reconnaissance de la langue des signes avec TensorFlow aux expériences web dynamiques, 
+  je transforme les idées ambitieuses en projets concrets.
+</p>
+
+<p align="left" style="font-size: 1.1em;">
+  🌍 Curieux de nature, je m’intéresse à ce qui bouge et à ce qui pense : 
+  <br />
+  🔎 <strong>Faits divers</strong> • 💰 <strong>Finance</strong>, <strong>Bourse</strong>, <strong>Crypto</strong> • 🌐 <strong>Géopolitique</strong> • ⚽ <strong>Sport</strong> (Foot, F1, Volley, Basket)
+</p>
+<p align="left" style="font-size: 1.1em;">
+  📺 Grand fan de <strong>dessins animés</strong>, et plus particulièrement de <strong>Futurama</strong> — 
+  d'où ma photo de profil avec le légendaire <em>Dr. Zoidberg</em> 🦞 !
+</p>
+
+<p align="left" style="font-size: 1.1em;">
+  💡 Toujours en veille, j’explore le monde autant que le code pour créer des expériences modernes et percutantes.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=plonoxxcoder&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil PlonoXxcoder" />
@@ -21,11 +46,15 @@
 
 <h3 align="left">💡 Mes Compétences Clés :</h3>
 <ul>
-  <li>Conception et développement d'<strong>Interfaces Homme-Machine (IHM)</strong> intuitives et performantes.</li>
-  <li>Développement d'applications avec <strong>TensorFlow</strong> et exploration de l'<strong>Intelligence Artificielle</strong>.</li>
-  <li>Manipulation et visualisation de <strong>graphes de données</strong>.</li>
-  <li>Création et gestion de <strong>Machines Virtuelles (VM)</strong>.</li>
-  <li>Participation aux <strong>WorldSkills 2024/2025</strong> en <strong>Cloud Computing</strong> 🏆.</li>
+  <li>Conception et développement d'<strong>Interfaces Utilisateur (UI)</strong> et d'<strong>Expériences Utilisateur (UX)</strong> intuitives et performantes, notamment avec <strong>React</strong> et <strong>Next.js</strong>.</li>
+  <li>Maîtrise des langages web fondamentaux : <strong>HTML5, CSS3, JavaScript</strong>.</li>
+  <li>Exploration de l'<strong>Intelligence Artificielle</strong> avec <strong>Python</strong>, <strong>TensorFlow</strong>, et développement d'applications IA.</li>
+  <li>Analyse, manipulation et visualisation de <strong>données</strong>, y compris les <strong>graphes de données</strong> (avec des outils comme Matplotlib).</li>
+  <li>Compétences solides en <strong>Cloud Computing (AWS, Azure)</strong> : création, gestion de <strong>VM</strong>, et déploiement d'applications.</li>
+  <li>Utilisation de <strong>Docker</strong> pour la conteneurisation et de <strong>Git</strong> pour le versioning.</li>
+  <li>Développement backend avec <strong>Node.js</strong> et gestion de bases de données variées (<strong>SQL</strong> comme MySQL/PostgreSQL, et <strong>NoSQL</strong> comme MongoDB).</li>
+  <li>Compétences en <strong>design graphique</strong> et <strong>prototypage d'interfaces</strong> (Figma, Suite Adobe).</li>
+  <li>Participation et préparation active pour les <strong>WorldSkills 2024/2025</strong> en <strong>Cloud Computing</strong> 🏆.</li>
 </ul>
 
 ---
@@ -104,71 +133,30 @@
 
 ---
 
-<h3 align="center">📜 Mes Certifications & Badges :</h3>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_CREDLY_AZURE_FUNDAMENTALS" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/be80ac62-de19-44ad-bea1-b80692689f81/azure-fundamentals-600x600.png" alt="Badge Microsoft Certified: Azure Fundamentals" width="100"/>
-      </a>
-      <br/>
-      <small>Azure Fundamentals</small>
-    </td>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_CREDLY_POWER_PLATFORM" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/73d0df50-0301-4f88-9891-70e026798011/PL-900-600x600.png" alt="Badge Microsoft Certified: Power Platform Fundamentals" width="100"/>
-      </a>
-      <br/>
-      <small>Power Platform Fundamentals</small>
-    </td>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_CREDLY_AZURE_DATA" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/0095603b-1b3c-4e38-a78f-9936543492cb/azure-data-fundamentals-600x600.png" alt="Badge Microsoft Certified: Azure Data Fundamentals" width="100"/>
-      </a>
-      <br/>
-      <small>Azure Data Fundamentals</small>
-    </td>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_CREDLY_AZURE_AI" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/2f706b80-5314-4e63-a331-a06cc873c706/azure-ai-fundamentals-600x600.png" alt="Badge Microsoft Certified: Azure AI Fundamentals" width="100"/>
-      </a>
-      <br/>
-      <small>Azure AI Fundamentals</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_BADGE_AWS_ACADEMY" target="_blank">
-        <img src="Images/AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1.png" alt="Badge AWS Academy Graduate - Intro to Cloud S1" width="100"/>
-      </a>
-      <br/>
-      <small>AWS Academy Graduate<br/>(Intro to Cloud S1)</small>
-    </td>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_BADGE_CCNA_INTRO" target="_blank">
-        <img src="Images/CCNA Introduction to Networks.png" alt="Badge CCNA Introduction to Networks" width="100"/>
-      </a>
-      <br/>
-      <small>CCNA Intro to Networks</small>
-    </td>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_BADGE_CYBERSECURITY" target="_blank">
-        <img src="Images/Introduction to Cybersecurity.png" alt="Badge Introduction to Cybersecurity" width="100"/>
-      </a>
-      <br/>
-      <small>Intro to Cybersecurity</small>
-    </td>
-    <td align="center" valign="top" style="padding: 10px; min-width: 150px;">
-      <a href="REMPLACER_PAR_LIEN_BADGE_LEARNATHON" target="_blank">
-        <img src="Images/Networking Academy Learn-A-Thon 2023.png" alt="Badge Networking Academy Learn-A-Thon 2023" width="100"/>
-      </a>
-      <br/>
-      <small>NetAcad Learn-A-Thon 2023</small>
-    </td>
-  </tr>
-</table>
-</div>
+<h3 align="center">📜 Mes Certifications & Badges</h3>
+<p align="center">
+  <a href="https://www.credly.com/badges/be86fb77-8dda-4222-8f42-0c47ffe21f10" target="_blank">
+    <img src="Images/AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1.png" alt="AWS Academy Graduate - Introduction to Cloud Semester 1" width="180" />
+  </a>    
+  <a href="https://www.credly.com/badges/f25557d8-bd53-4a15-8afe-26eef96b4d76" target="_blank">
+    <img src="Images/CCNA _Introduction_to_Networks.png" alt="CCNA Introduction to Networks" width="180"/>
+  </a>    
+  <a href="https://www.credly.com/badges/efc4b710-77b4-4e3e-8bf2-09da5aa00619" target="_blank">
+    <img src="Images/Introduction to Cybersecurity.png" alt="Introduction to Cybersecurity" width="180"/>
+  </a>    
+  <a href="https://www.credly.com/badges/508d6429-7e32-4c85-9455-0fb34606ef2a" target="_blank">
+    <img src="Images/Networking Academy Learn-A-Thon 2023.png" alt="Networking Academy Learn-A-Thon 2023" width="180"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛡️ Autres Badges & Distinctions :</h3>
+<p align="center">
+  <a href="https://tryhackme.com/p/Paul.bnn" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png" alt="TryHackMe Badge Paul.bnn" width="400"/> 
+  </a>
+</p>
 
 ---
 
@@ -186,6 +174,15 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+---
+
 <h3 align="center">☕ Un petit coup de pouce ?</h3>
 <p align="center">
 Si vous appréciez mon travail, un café m'aiderait à rester éveillé pour coder encore plus de projets passionnants ! 😉
@@ -193,3 +190,4 @@ Si vous appréciez mon travail, un café m'aiderait à rester éveillé pour cod
 <p align="center">
   <a href="https://www.buymeacoffee.com/PlonoXx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Offrez-moi un café - PlonoXx" /></a>
 </p>
+
