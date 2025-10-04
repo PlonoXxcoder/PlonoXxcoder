@@ -142,12 +142,35 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">📊 Suites Bureautiques & Productivité :</h3>
+
 <p align="left">
-  <strong>📊 Productivité & Bureautique (Suite Microsoft Office) :</strong><br/>
-  <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
+  <strong>Microsoft 365 :</strong><br/>
   <a href="https://www.microsoft.com/fr-fr/microsoft-365/word" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-word.png" alt="Word" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/fr-fr/microsoft-365/powerpoint" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" alt="PowerPoint" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/outlook" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Outlook" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer"><img src="https://statics.teams.cdn.live.net/evergreen-assets/gather/images/teams-logo.svg" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/onenote/digital-note-taking-app" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/SG0BZJOOxTwiSBS_Pdh8TXDYCSzl6fHW2leFPo9Oivo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzEwL01p/Y3Jvc29mdF9PZmZp/Y2VfT25lTm90ZV8l/MjgyMDE5JUUyJTgw/JTkzcHJlc2VudCUy/OS5zdmcvMjUwcHgt/TWljcm9zb2Z0X09m/ZmljZV9PbmVOb3Rl/XyUyODIwMTklRTIl/ODAlOTNwcmVzZW50/JTI5LnN2Zy5wbmc" alt="OneNote" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/fr-fr/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/></a>
+</p>
+
+<p align="left">
+  <strong>Google Workspace :</strong><br/>
+  <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Docs" width="40" height="40"/></a>
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Sheets" width="40" height="40"/></a>
+  <a href="https://www.google.com/slides/about/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/images/branding/product/2x/slides_2020q4_48dp.png" alt="Google Slides" width="40" height="40"/></a>
+  <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/images/branding/product/2x/docs_2020q4_48dp.png" alt="Google Docs" width="40" height="40"/></a>
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" alt="Google Sheets" width="40" height="40"/></a>
+  <a href="https://www.google.com/forms/about/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png" alt="Google Forms" width="40" height="40"/></a>
+
+  <a href="https://www.google.com/gmail/about/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://www.google.com/drive/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/9g7KVQgAOMnxxl2UNdhWKZmYVyaQPoTkt_vLx32Nx30/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzEyL0dv/b2dsZV9Ecml2ZV9p/Y29uXyUyODIwMjAl/Mjkuc3ZnLzI1MHB4/LUdvb2dsZV9Ecml2/ZV9pY29uXyUyODIw/MjAlMjkuc3ZnLnBu/Zw" alt="Google Drive" width="40" height="40"/></a>
+</p>
+
+<p align="left">
+  <strong>Alternatives Open Source :</strong><br/>
+  <a href="https://fr.libreoffice.org/" target="_blank" rel="noreferrer"><img src="https://fr.libreoffice.org/themes/libreofficenew/img/logo.png" alt="LibreOffice" width="40" height="40"/></a>
 </p>
 
 ---
