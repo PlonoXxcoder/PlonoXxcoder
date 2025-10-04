@@ -55,10 +55,28 @@
   <li>Développement backend avec <strong>Node.js</strong> et gestion de bases de données variées (<strong>SQL</strong> comme MySQL/PostgreSQL, et <strong>NoSQL</strong> comme MongoDB).</li>
   <li>Compétences en <strong>design graphique</strong> et <strong>prototypage d'interfaces</strong> (Figma, Suite Adobe).</li>
   <li>Participation et préparation active pour les <strong>WorldSkills 2024/2025</strong> en <strong>Cloud Computing</strong> 🏆.</li>
+  <li>Conception et prototypage d'<strong>applications mobiles</strong> avec <strong>MIT App Inventor</strong> pour l'interaction avec des objets connectés.</li>
 </ul>
 
 ---
+### 💡 Projet IoT en vedette
 
+<h3 align="left">🌱 RaspiWeatherPlant : Station Météo & Gardien de Plantes sur Raspberry Pi</h3>
+<p>
+  <i>RaspiWeatherPlant</i> transforme un <strong>Raspberry Pi</strong> équipé d'un <strong>Sense HAT</strong> en un centre de contrôle environnemental intelligent. Ce projet combine une station météo complète accessible via une interface web (Flask) et un assistant de jardinage proactif qui alerte visuellement sur la matrice LED quand il est temps d'arroser les plantes.
+</p>
+<p>
+  <strong>Fonctionnalités Clés :</strong>
+  <ul>
+    <li>📊 <strong>Dashboard Météo Complet :</strong> Température, humidité, pression et indice de chaleur en temps réel.</li>
+    <li>📈 <strong>Graphiques Historiques :</strong> Visualisation des données sur plusieurs périodes (heure, jour, semaine, etc.).</li>
+    <li>💧 <strong>Assistant de Jardinage :</strong> Gestion de cycles d'arrosage personnalisés et alertes visuelles sur la matrice LED.</li>
+    <li>🌐 <strong>Interface Web Intuitive :</strong> Contrôle et visualisation faciles depuis n'importe quel appareil du réseau.</li>
+  </ul>
+</p>
+<p align="center">
+  <a href="https://github.com/PlonoXxcoder/raspberry-pi-plant-monitor"><strong>➡️ Accéder au projet et au code source sur GitHub</strong></a>
+</p>
 <h3 align="left">🚀 Ma Boîte à Outils :</h3>
 
 <p align="left">
@@ -83,10 +101,12 @@
 </p>
 
 <p align="left">
-  <strong>🧠 Intelligence Artificielle & Data Science :</strong><br/>
+  <strong>🧠 IA, Data Science & Électronique :</strong><br/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python (pour l'IA)" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib (pour l'IA)" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry Pi" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
@@ -104,15 +124,14 @@
 
 <p align="left">
   <strong>📱 Mobile & Langages Divers :</strong><br/>
+  <a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"><img src="https://appinventor.mit.edu/images/logo.png" alt="MIT App Inventor" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
 </p>
-
 <p align="left">
   <strong>☁️ DevOps, Cloud & Outils :</strong><br/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
