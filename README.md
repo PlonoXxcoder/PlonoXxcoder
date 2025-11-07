@@ -61,17 +61,19 @@
 ---
 ### 💡 Projet IoT en vedette
 
-<h3 align="left">🌱 RaspiWeatherPlant : Station Météo & Gardien de Plantes sur Raspberry Pi</h3>
+<h3 align="left">🌱 RaspiHome Hub : Météo, Jardinage, Tâches & Domotique Intelligente</h3>
 <p>
-  <i>RaspiWeatherPlant</i> transforme un <strong>Raspberry Pi</strong> équipé d'un <strong>Sense HAT</strong> en un centre de contrôle environnemental intelligent. Ce projet combine une station météo complète accessible via une interface web (Flask) et un assistant de jardinage proactif qui alerte visuellement sur la matrice LED quand il est temps d'arroser les plantes.
+<i>RaspiHome Hub</i> (anciennement RaspiWeatherPlant) est un serveur domotique complet tournant sur <strong>Raspberry Pi</strong> avec un backend <strong>Flask</strong> et un frontend <strong>JavaScript modulaire</strong> (api.js, ui.js, main.js). Ce projet transforme le Pi en un véritable centre de contrôle pour la maison, capable de fusionner des données de capteurs multiples (Sense HAT, ESP32), de gérer des routines domestiques et de fournir des alertes intelligentes.
 </p>
 <p>
   <strong>Fonctionnalités Clés :</strong>
   <ul>
-    <li>📊 <strong>Dashboard Météo Complet :</strong> Température, humidité, pression et indice de chaleur en temps réel.</li>
-    <li>📈 <strong>Graphiques Historiques :</strong> Visualisation des données sur plusieurs périodes (heure, jour, semaine, etc.).</li>
-    <li>💧 <strong>Assistant de Jardinage :</strong> Gestion de cycles d'arrosage personnalisés et alertes visuelles sur la matrice LED.</li>
-    <li>🌐 <strong>Interface Web Intuitive :</strong> Contrôle et visualisation faciles depuis n'importe quel appareil du réseau.</li>
+    <li>📡 <strong>Météo Multi-Sources :</strong> Combine les données du <strong>Sense HAT</strong>, d'un capteur distant <strong>ESP32</strong> (pour la SDB) et d'une <strong>API web</strong>.</li>
+    <li>🧠 <strong>Domotique Intelligente :</strong> Génère des <strong>alertes</strong> (chauffage si T° < 18°C) et des <strong>astuces contextuelles</strong> (humidité SDB, ouverture/fermeture des volets basée sur l'heure de lever/coucher du soleil).</li>
+    <li>💧 <strong>Jardinage Proactif :</strong> Suivi visuel des plantes avec des barres de progression d'arrosage colorées (vert/jaune/rouge).</li>
+    <li>🧹 <strong>Gestion des Tâches :</strong> Suivi des tâches ménagères récurrentes (via BDD SQLite) avec des barres de progression d'urgence.</li>
+    <li>📈 <strong>Graphiques Avancés :</strong> Graphes interactifs (Chart.js) avec zoom, pan, et plages de temps étendues (8h à 30j).</li>
+    <li>🔐 <strong>Interface Fiable :</strong> Interface sécurisée (Flask-Login) avec barre de navigation rapide et lecture des données depuis la base de données pour une persistance après redémarrage.</li>
   </ul>
 </p>
 <p align="center">
