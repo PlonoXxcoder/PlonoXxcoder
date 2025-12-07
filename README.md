@@ -35,10 +35,10 @@
 
 <h3 align="center">🔗 Restons connectés !</h3>
 <p align="center">
-  <a href="https://twitter.com/plonox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - PlonoX" height="40" width="50" /></a>  
-  <a href="https://linkedin.com/in/paul-bonneau-lyon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Paul Bonneau" height="40" width="50" /></a>  
-  <a href="https://codesandbox.com/plonoxx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox - PlonoXx" height="40" width="50" /></a>  
-  <a href="https://dribbble.com/paulbonneaupro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble - Paul Bonneau Pro" height="40" width="50" /></a>  
+  <a href="https://twitter.com/plonox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - PlonoX" height="40" width="50" /></a>  
+  <a href="https://linkedin.com/in/paul-bonneau-lyon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Paul Bonneau" height="40" width="50" /></a>  
+  <a href="https://codesandbox.com/plonoxx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox - PlonoXx" height="40" width="50" /></a>  
+  <a href="https://dribbble.com/paulbonneaupro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble - Paul Bonneau Pro" height="40" width="50" /></a>  
   <a href="https://www.youtube.com/c/plonox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - PlonoX" height="40" width="50" /></a>
 </p>
 
@@ -69,11 +69,11 @@
   <strong>Fonctionnalités Clés :</strong>
   <ul>
     <li>📡 <strong>Météo Multi-Sources :</strong> Combine les données du <strong>Sense HAT</strong>, d'un capteur distant <strong>ESP32</strong> (pour la SDB) et d'une <strong>API web</strong>.</li>
-    <li>🧠 <strong>Domotique Intelligente :</strong> Génère des <strong>alertes</strong> (chauffage si T° < 18°C) et des <strong>astuces contextuelles</strong> (humidité SDB, ouverture/fermeture des volets basée sur l'heure de lever/coucher du soleil).</li>
-    <li>💧 <strong>Jardinage Proactif :</strong> Suivi visuel des plantes avec des barres de progression d'arrosage colorées (vert/jaune/rouge).</li>
-    <li>🧹 <strong>Gestion des Tâches :</strong> Suivi des tâches ménagères récurrentes (via BDD SQLite) avec des barres de progression d'urgence.</li>
-    <li>📈 <strong>Graphiques Avancés :</strong> Graphes interactifs (Chart.js) avec zoom, pan, et plages de temps étendues (8h à 30j).</li>
-    <li>🔐 <strong>Interface Fiable :</strong> Interface sécurisée (Flask-Login) avec barre de navigation rapide et lecture des données depuis la base de données pour une persistance après redémarrage.</li>
+    <li>🧠 <strong>Domotique Intelligente :</strong> Génère des <strong>alertes</strong> (chauffage si T° < 18°C) et des <strong>astuces contextuelles</strong> (humidité SDB, ouverture/fermeture des volets basée sur l'heure de lever/coucher du soleil).</li>
+    <li>💧 <strong>Jardinage Proactif :</strong> Suivi visuel des plantes avec des barres de progression d'arrosage colorées (vert/jaune/rouge).</li>
+    <li>🧹 <strong>Gestion des Tâches :</strong> Suivi des tâches ménagères récurrentes (via BDD SQLite) avec des barres de progression d'urgence.</li>
+    <li>📈 <strong>Graphiques Avancés :</strong> Graphes interactifs (Chart.js) avec zoom, pan, et plages de temps étendues (8h à 30j).</li>
+    <li>🔐 <strong>Interface Fiable :</strong> Interface sécurisée (Flask-Login) avec barre de navigation rapide et lecture des données depuis la base de données pour une persistance après redémarrage.</li>
   </ul>
 </p>
 <p align="center">
@@ -195,10 +195,15 @@
 
 ---
 
-<h3 align="center">🛡️ Autres Badges & Distinctions :</h3>
+<h3 align="center">🕵️‍♂️ Cybersécurité & Training</h3>
+<p align="center">
+  Passionné par la sécurité offensive, je m'entraîne régulièrement sur <strong>TryHackMe</strong> pour affiner mes compétences en pentesting et sécurité réseau.
+  <br />
+  Voici ma progression actuelle :
+</p>
 <p align="center">
   <a href="https://tryhackme.com/p/Paul.bnn" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png" alt="TryHackMe Badge Paul.bnn" width="400"/> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png" alt="TryHackMe Badge Paul.bnn" />
   </a>
 </p>
 
@@ -232,4 +237,3 @@ Si vous appréciez mon travail, un café m'aiderait à rester éveillé pour cod
 <p align="center">
   <a href="https://www.buymeacoffee.com/PlonoXx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Offrez-moi un café - PlonoXx" /></a>
 </p>
-
