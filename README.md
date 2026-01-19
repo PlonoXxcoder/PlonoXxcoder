@@ -27,10 +27,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=plonoxxcoder&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil PlonoXxcoder" />
+  <img src="https://img.shields.io/badge/WorldSkills_2024-Competitor-gold?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-Expert-blue?style=for-the-badge&logo=icloud" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plonoxxcoder" alt="Trophées GitHub de PlonoXxcoder" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PlonoXxcoder&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Statistiques de PlonoXxcoder" />
 </p>
 
 <h3 align="center">🔗 Restons connectés !</h3>
