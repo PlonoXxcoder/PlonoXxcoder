@@ -2,11 +2,15 @@
   Salut, moi c'est <strong>PlonoXxcoder</strong> !
   <img src="Images/tu-peux-faire-ca-toi-milhouse.gif" alt="Milhouse GIF" width="50" />
 </h1>
+<p align="center">
+  🌐 <a href="https://plonoxxcoder.github.io/PlonoXx-portfolio/"><strong>Voir mon portfolio</strong></a>
+</p
 <p align="left" style="font-size: 1.2em;">
   👨‍💻 Développeur français passionné par le <strong>frontend</strong>, l'<strong>IA</strong> et le <strong>Cloud Computing</strong>.
   <br />
   🎨 J’aime concevoir des interfaces élégantes, intuitives et intelligentes.
 </p>
+
 <p align="left" style="font-size: 1.1em;">
   🚀 De la reconnaissance de la langue des signes avec TensorFlow aux expériences web dynamiques, 
   je transforme les idées ambitieuses en projets concrets.
