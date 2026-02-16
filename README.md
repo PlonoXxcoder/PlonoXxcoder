@@ -209,7 +209,7 @@
 </p>
 <p align="center">
   <a href="https://tryhackme.com/p/Paul.bnn" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png" alt="TryHackMe Badge Paul.bnn" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png" alt="Your Image Badge" />
   </a>
 </p>
 
