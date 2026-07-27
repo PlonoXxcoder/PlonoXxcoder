@@ -1,90 +1,119 @@
-<h1 align="center">
-  Salut, moi c'est <strong>PlonoXxcoder</strong> !
-  <img src="Images/tu-peux-faire-ca-toi-milhouse.gif" alt="Milhouse GIF" width="50" />
-</h1>
-<p align="center">
-  🌐 <a href="https://plonoxxcoder.github.io/PlonoXx-portfolio/"><strong>Voir mon portfolio</strong></a>
-</p
-<p align="left" style="font-size: 1.2em;">
-  👨‍💻 Développeur français passionné par le <strong>frontend</strong>, l'<strong>IA</strong> et le <strong>Cloud Computing</strong>.
-  <br />
-  🎨 J’aime concevoir des interfaces élégantes, intuitives et intelligentes.
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o6Mbd8E9l1A5nQkFO/giphy.gif" alt="Milhouse GIF" width="60" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F70CD1&height=200&section=header&text=PlonoXxcoder&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20IA%20%7C%20Cloud%20Computing&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CD1&width=435&lines=Salut%2C+moi+c'est+PlonoXxcoder+!+%F0%9F%A6%9E;D%C3%A9veloppeur+Frontend+%7C+IA+%7C+Cloud;Passionn%C3%A9+par+l'innovation+%26+le+web!" alt="Typing SVG" />
+</a>
+
+<p>
+  🌐 <a href="https://plonoxxcoder.github.io/PlonoXx-portfolio/" target="_blank"><strong>Consulter mon Portfolio</strong></a>
 </p>
 
-<p align="left" style="font-size: 1.1em;">
-  🚀 De la reconnaissance de la langue des signes avec TensorFlow aux expériences web dynamiques, 
-  je transforme les idées ambitieuses en projets concrets.
-</p>
+<img src="https://img.shields.io/badge/WorldSkills_2024-Competitor-gold?style=for-the-badge&logo=target" />
+<img src="https://img.shields.io/badge/Cloud_Computing-Expert-blue?style=for-the-badge&logo=icloud" />
+<img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
 
-<p align="left" style="font-size: 1.1em;">
-  🌍 Curieux de nature, je m’intéresse à ce qui bouge et à ce qui pense : 
-  <br />
-  🔎 <strong>Faits divers</strong> • 💰 <strong>Finance</strong>, <strong>Bourse</strong>, <strong>Crypto</strong> • 🌐 <strong>Géopolitique</strong> • ⚽ <strong>Sport</strong> (Foot, F1, Volley, Basket)
-</p>
-<p align="left" style="font-size: 1.1em;">
-  📺 Grand fan de <strong>dessins animés</strong>, et plus particulièrement de <strong>Futurama</strong> — 
-  d'où ma photo de profil avec le légendaire <em>Dr. Zoidberg</em> 🦞 !
-</p>
+<img src="https://komarev.com/ghpvc/?username=PlonoXxcoder&label=Visiteurs%20du%20profil&color=F70CD1&style=flat" />
 
-<p align="left" style="font-size: 1.1em;">
-  💡 Toujours en veille, j’explore le monde autant que le code pour créer des expériences modernes et percutantes.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WorldSkills_2024-Competitor-gold?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-Expert-blue?style=for-the-badge&logo=icloud" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PlonoXxcoder&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Statistiques de PlonoXxcoder" />
-</p>
-
-<h3 align="center">🔗 Restons connectés !</h3>
-<p align="center">
-  <a href="https://twitter.com/plonox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - PlonoX" height="40" width="50" /></a>  
-  <a href="https://linkedin.com/in/paul-bonneau-lyon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Paul Bonneau" height="40" width="50" /></a>  
-  <a href="https://codesandbox.com/plonoxx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox - PlonoXx" height="40" width="50" /></a>  
-  <a href="https://dribbble.com/paulbonneaupro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble - Paul Bonneau Pro" height="40" width="50" /></a>  
-  <a href="https://www.youtube.com/c/plonox" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - PlonoX" height="40" width="50" /></a>
-</p>
+</div>
 
 ---
 
-<h3 align="left">💡 Mes Compétences Clés :</h3>
-<ul>
-  <li>Conception et développement d'<strong>Interfaces Utilisateur (UI)</strong> et d'<strong>Expériences Utilisateur (UX)</strong> intuitives et performantes, notamment avec <strong>React</strong> et <strong>Next.js</strong>.</li>
-  <li>Maîtrise des langages web fondamentaux : <strong>HTML5, CSS3, JavaScript</strong>.</li>
-  <li>Exploration de l'<strong>Intelligence Artificielle</strong> avec <strong>Python</strong>, <strong>TensorFlow</strong>, et développement d'applications IA.</li>
-  <li>Analyse, manipulation et visualisation de <strong>données</strong>, y compris les <strong>graphes de données</strong> (avec des outils comme Matplotlib).</li>
-  <li>Compétences solides en <strong>Cloud Computing (AWS, Azure)</strong> : création, gestion de <strong>VM</strong>, et déploiement d'applications.</li>
-  <li>Utilisation de <strong>Docker</strong> pour la conteneurisation et de <strong>Git</strong> pour le versioning.</li>
-  <li>Développement backend avec <strong>Node.js</strong> et gestion de bases de données variées (<strong>SQL</strong> comme MySQL/PostgreSQL, et <strong>NoSQL</strong> comme MongoDB).</li>
-  <li>Compétences en <strong>design graphique</strong> et <strong>prototypage d'interfaces</strong> (Figma, Suite Adobe).</li>
-  <li>Participation et préparation active pour les <strong>WorldSkills 2024/2025</strong> en <strong>Cloud Computing</strong> 🏆.</li>
-  <li>Conception et prototypage d'<strong>applications mobiles</strong> avec <strong>MIT App Inventor</strong> pour l'interaction avec des objets connectés.</li>
-</ul>
+### 👋 À propos de moi
+
+<img src="https://camo.githubusercontent.com/3285b0efd310d295baf49d2e29b6d62e62967480fd90d0cd337f004e89e2175b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7172335a7957677747516a624a316f534f662f67697068792e676966" alt="Simpsons GIF" align="right" width="120" />
+
+👨‍💻 Développeur français passionné par le **Frontend**, l'**IA** et le **Cloud Computing**.
+🎨 J'aime concevoir des interfaces élégantes, intuitives et intelligentes.
+🚀 De la reconnaissance de la langue des signes avec TensorFlow aux expériences web dynamiques, je transforme les idées ambitieuses en projets concrets.
+
+🌍 **Mes centres d'intérêt :** Faits divers • Finance, Bourse, Crypto • Géopolitique • Sport (Foot, F1, Volley, Basket)
+📺 Grand fan de dessins animés, et plus particulièrement de **Futurama** — d'où *Dr. Zoidberg* 🦞 !
+
+<div align="center">
+  <h3>🔗 Restons connectés !</h3>
+  <a href="https://twitter.com/plonox" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" /></a>
+  <a href="https://linkedin.com/in/paul-bonneau-lyon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+  <a href="https://codesandbox.com/plonoxx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="35" width="45" /></a>
+  <a href="https://dribbble.com/paulbonneaupro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="35" width="45" /></a>
+  <a href="https://www.youtube.com/c/plonox" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="35" width="45" /></a>
+</div>
 
 ---
-### 💡 Projet IoT en vedette
 
-<h3 align="left">🌱 RaspiHome Hub : Météo, Jardinage, Tâches & Domotique Intelligente</h3>
-<p>
-<i>RaspiHome Hub</i> (anciennement RaspiWeatherPlant) est un serveur domotique complet tournant sur <strong>Raspberry Pi</strong> avec un backend <strong>Flask</strong> et un frontend <strong>JavaScript modulaire</strong> (api.js, ui.js, main.js). Ce projet transforme le Pi en un véritable centre de contrôle pour la maison, capable de fusionner des données de capteurs multiples (Sense HAT, ESP32), de gérer des routines domestiques et de fournir des alertes intelligentes.
-</p>
-<p>
-  <strong>Fonctionnalités Clés :</strong>
-  <ul>
-    <li>📡 <strong>Météo Multi-Sources :</strong> Combine les données du <strong>Sense HAT</strong>, d'un capteur distant <strong>ESP32</strong> (pour la SDB) et d'une <strong>API web</strong>.</li>
-    <li>🧠 <strong>Domotique Intelligente :</strong> Génère des <strong>alertes</strong> (chauffage si T° < 18°C) et des <strong>astuces contextuelles</strong> (humidité SDB, ouverture/fermeture des volets basée sur l'heure de lever/coucher du soleil).</li>
-    <li>💧 <strong>Jardinage Proactif :</strong> Suivi visuel des plantes avec des barres de progression d'arrosage colorées (vert/jaune/rouge).</li>
-    <li>🧹 <strong>Gestion des Tâches :</strong> Suivi des tâches ménagères récurrentes (via BDD SQLite) avec des barres de progression d'urgence.</li>
-    <li>📈 <strong>Graphiques Avancés :</strong> Graphes interactifs (Chart.js) avec zoom, pan, et plages de temps étendues (8h à 30j).</li>
-    <li>🔐 <strong>Interface Fiable :</strong> Interface sécurisée (Flask-Login) avec barre de navigation rapide et lecture des données depuis la base de données pour une persistance après redémarrage.</li>
-  </ul>
-</p>
-<p align="center">
-  <a href="https://github.com/PlonoXxcoder/raspberry-pi-plant-monitor"><strong>➡️ Accéder au projet et au code source sur GitHub</strong></a>
-</p>
+### 🏆 Projet en vedette : RaspiHome Hub
+
+<img src="https://camo.githubusercontent.com/75f5e0541edb8764956433f98bfd6374fe51b89dc10b671658e5bc2037536c04/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4837416d71794152464563375331536d746c2f67697068792e676966" alt="Simpsons GIF" align="right" width="120" />
+
+*RaspiHome Hub* (anciennement RaspiWeatherPlant) est un serveur domotique complet tournant sur **Raspberry Pi** avec un backend **Flask** et un frontend **JavaScript** modulaire (api.js, ui.js, main.js). Ce projet transforme le Pi en un véritable centre de contrôle pour la maison, capable de fusionner des données de capteurs multiples (Sense HAT, ESP32), de gérer des routines domestiques et de fournir des alertes intelligentes.
+
+**Fonctionnalités clés :**
+- 🌡️ **Météo Multi-Sources :** Combine les données du Sense HAT, d'un capteur distant ESP32 (pour la SDB) et d'une API web.
+- 🏠 **Domotique Intelligente :** Génère des alertes (chauffage si T° < 18°C) et des astuces contextuelles (humidité SDB, ouverture/fermeture des volets basée sur l'heure du lever/coucher du soleil).
+- 🪴 **Jardinage Proactif :** Suivi visuel des plantes avec des barres de progression d'arrosage colorées (vert/jaune/rouge).
+- ✅ **Gestion des Tâches :** Suivi des tâches ménagères récurrentes (via BDD SQLite) avec des barres de progression d'urgence.
+- 📊 **Graphiques Avancés :** Graphes interactifs (Chart.js) avec zoom, pan, et plages de temps étendues (8h à 30j).
+- 🔒 **Interface Fiable :** Interface sécurisée (Flask-Login) avec barre de navigation rapide et lecture des données depuis la base de données pour une persistance rédémarrage.
+
+<div align="center">
+
+<a href="https://github.com/PlonoXxcoder/raspberry-pi-plant-monitor"><strong>➡️ Voir le projet sur GitHub</strong></a>
+
+</div>
+
+---
+
+### 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PlonoXxcoder&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Statistiques de PlonoXxcoder" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlonoXxcoder&layout=compact&theme=radical" alt="Langages les plus utilisés" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=PlonoXxcoder&theme=radical&hide_border=true" alt="Streak Stats" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PlonoXxcoder&theme=react-dark&hide_border=true" alt="Graphique d'activité" width="90%" />
+
+</div>
+
+<details>
+<summary>🏅 Voir mes trophées GitHub</summary>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PlonoXxcoder&theme=radical&no-frame=true&row=1&column=7" alt="Trophées GitHub" />
+</div>
+
+</details>
+
+<!--
+🐍 Snake animée (contributions) — à activer via GitHub Action :
+1. Crée .github/workflows/snake.yml dans ton repo de profil avec l'action Platane/snk
+2. Elle générera automatiquement une image "snake.svg" à héberger sur une branche "output"
+3. Ajoute ensuite ici : <img src="https://raw.githubusercontent.com/PlonoXxcoder/PlonoXxcoder/output/github-contribution-grid-snake.svg" />
+Doc complète : https://github.com/Platane/snk
+-->
+
+---
+
+### 💡 Mes Compétences Clés
+
+- Conception et développement d'**Interfaces Utilisateur (UI)** et d'**Expériences Utilisateur (UX)** intuitives et performantes, notamment avec **React** et **Next.js**.
+- Maîtrise des langages web fondamentaux : **HTML5**, **CSS3**, **JavaScript**.
+- Exploration de l'**Intelligence Artificielle** avec **Python**, **TensorFlow**, et développement d'applications IA.
+- Analyse, manipulation et visualisation de **données** (avec des outils comme **Matplotlib**).
+- Compétences solides en **Cloud Computing** (AWS, Azure) : création, gestion de VM, et déploiement d'applications.
+- Utilisation de **Docker** pour la conteneurisation et de **Git** pour le versioning.
+- Développement backend avec **Node.js** et gestion de bases de données variées (**SQL** comme MySQL/PostgreSQL, et **NoSQL** comme MongoDB).
+- Compétences en **design graphique** et **prototypage d'interfaces** (Figma, Suite Adobe).
+- Participation et préparation active pour les **WorldSkills 2024** en **Cloud Computing** 🏆.
+- Conception et prototypage d'**applications mobiles** avec **MIT App Inventor** pour l'interaction avec des objets connectés.
+
+---
+
 <h3 align="left">🚀 Ma Boîte à Outils :</h3>
 
 <p align="left">
@@ -183,6 +212,8 @@
 
 ---
 
+### 📜 Mes Certifications & Badges
+
 <h3 align="center">📜 Mes Certifications & Badges</h3>
 <p align="center">
   <a href="https://www.credly.com/badges/be86fb77-8dda-4222-8f42-0c47ffe21f10" target="_blank">
@@ -201,27 +232,26 @@
 
 ---
 
-<h3 align="center">🕵️‍♂️ Cybersécurité & Training</h3>
-<p align="center">
-  Passionné par la sécurité offensive, je m'entraîne régulièrement sur <strong>TryHackMe</strong> pour affiner mes compétences en pentesting et sécurité réseau.
-  <br />
-  Voici ma progression actuelle :
-</p>
-<p align="center">
-  <a href="https://tryhackme.com/p/Paul.bnn" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png" alt="Your Image Badge" />
-  </a>
-</p>
+### 🔐 Cybersécurité & Training
 
+Passionné par la sécurité offensive, je m'entraîne régulièrement sur **TryHackMe** pour affiner mes compétences en pentesting et sécurité réseau.
 
+<div align="center">
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Paul.bnn.png)](https://tryhackme.com/p/Paul.bnn)
+
+</div>
 
 ---
 
-<h3 align="center">☕ Un petit coup de pouce ?</h3>
-<p align="center">
-Si vous appréciez mon travail, un café m'aiderait à rester éveillé pour coder encore plus de projets passionnants ! 😉
-</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/PlonoXx"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Offrez-moi un café - PlonoXx" /></a>
-</p>
+<div align="center">
+
+### ☕ Un petit coup de pouce ?
+
+Si vous appréciez mon travail, un café m'aiderait à rester éveillé pour coder encore plus de projets passionnants ! 😊
+
+<a href="https://www.buymeacoffee.com/PlonoXx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Offrez-moi un café" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F70CD1&height=100&section=footer" width="100%"/>
+
+</div>
